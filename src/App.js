@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <h1>Api google map</h1>
-      <LoadScript googleMapsApiKey='AIzaSyCOS4xy4MdXtYqxyfaL6gHivXqe8Y3f6zs'>
+      <LoadScript googleMapsApiKey=''>
         <GoogleMap
           mapContainerStyle={{height :`700px`, width: `100%`}}
           center={{ lat: 46.862725, lng: 2.287592 }}
